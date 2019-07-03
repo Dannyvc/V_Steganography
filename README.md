@@ -5,7 +5,7 @@ Python program based to hide Secret message in images
 pip install -r requirements.txt
 
 # Usage
-usage : -e/-d <target file>
+usage : usage -e/-d <target file>
 
 Options:
 
